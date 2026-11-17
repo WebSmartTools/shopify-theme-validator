@@ -1,4 +1,5 @@
 # shopify-theme-validator
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/websmarttools/shopify-theme-validator)
 
 Validate a Shopify theme before upload and catch the defects Shopify's own theme-check misses.
 
